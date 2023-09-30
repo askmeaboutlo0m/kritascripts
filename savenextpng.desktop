@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=savenextpng
+X-Python-2-Compatible=false
+Name=Save Next PNG
+Comment=Save a PNG with ascending number
